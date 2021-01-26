@@ -4,7 +4,7 @@ _____________________________________________________________________________
 
 command + d -> duplicate a line
 
-select code line(s), control + option + T -> surround by statements like if-else-catch etc
+select code line(s), command + option + T -> surround by statements like if-else-catch etc
 
 Shift (above fn) + option + up/down key -- to move line up or down
 
